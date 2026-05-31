@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior self-taught backend developer<br>A passionate Python lover<br>Learning new things everyday<br>Playing Padel, Basketball and tennis at spare time<br>
+Backend developer<br>A passionate Python lover<br>Learning new things everyday<br>Playing Padel, Basketball and tennis at spare time<br>
 
 
 ## 🌐 Socials:
